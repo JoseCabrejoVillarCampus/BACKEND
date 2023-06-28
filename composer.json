@@ -1,0 +1,19 @@
+{
+    "name": "josecabron/composer",
+    "description": "...",
+    "license": "LTS",
+    "autoload": {
+        "psr-4": {
+            "App\\": "scripts/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoseCabrejoVillarCampus",
+            "email": "cabre920903@hotmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    }
+}
